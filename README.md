@@ -15,5 +15,5 @@
 
 # Big-O Gösterimini Yazınız
 
- * O(n)
+ * O(nlogn)
 
